@@ -1,4 +1,4 @@
-# AR-BookTrailer
+# AR (BookTrailer)
 It is the project of Computer Vision Master Course which projects the trailer of a novel on its cover using feature matching.
 
 ## Description
